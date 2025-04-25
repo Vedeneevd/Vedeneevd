@@ -1,6 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F72E&width=435&lines=👋+Hi,+I'm+Dmitry+Vedeneev;🐍+Python+Backend+Specialist/>
-</h1>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F72E&width=435&lines=👋+Hi,+I'm+Dmitry+Vedeneev;🐍+Python+Backend+Specialist" alt="Animated Introduction" />
 
 
 [![](https://img.shields.io/badge/-@Vedeneevdv-%23181717?style=flat-square&logo=github)](https://github.com/Vedeneevd)
